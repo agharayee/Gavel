@@ -701,4 +701,17 @@ top: -200px;
   }
 }
 
+@media (min-width: 1024px){
+ .pic-swift{
+   top: -450px;
+ }
+ .rower{
+   height: 800px;
+ }
+
+ .rowing{
+   height: 800px;
+ }
+}
+
 
