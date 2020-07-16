@@ -369,7 +369,9 @@
   margin-left: 40px;
   width: 200%;
 }
-
+.holder{
+  padding: 1em;
+}
 .lag-check{
   height: 1100px;
 }
@@ -381,10 +383,38 @@
 .head-h4{
   width: 100%;
 }
+
+.margin-5{
+  margin-top: 2px;
+}
 .marginleft-5{
   margin-left: 10px;
   
 }
+.p-p4{
+  font-size: 26px !important;
+}
+.great{
+  width: 300px;
+}
+
+.p-checker{
+  width: 100%;
+}
+}
+
+@media (max-width: 320px){
+  .great{
+    width: 250px;
+  }
+
+  .rower{
+    height: 800px;
+  }
+
+  .p-checker{
+    margin-bottom: 90px !important;
+  }
 }
 
 
