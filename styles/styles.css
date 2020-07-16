@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'AvenirLTStd-Black';
-  src: url("/Font/avenirltstd/AvenirLTStd-Black.otf");
+  src: url("/Font/avenirltstd/AvenirLTStd-Book.otf");
 }
 
 *{
@@ -703,7 +703,7 @@ top: -200px;
 
 @media (min-width: 1024px){
  .pic-swift{
-   top: -450px;
+
  }
  .rower{
    height: 800px;
